@@ -1,0 +1,14 @@
+.bg-gray {
+  background-color: #f0f0f0;
+}
+
+.centered-caption {
+  margin-bottom: 10%;
+}
+
+@media (max-width: 768px) {
+  .centered-caption {
+    display: block;
+    text-align: center;
+  }
+}
